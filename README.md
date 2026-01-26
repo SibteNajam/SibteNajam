@@ -8,6 +8,7 @@
 🕸️ Passionate about designing scalable, data-driven applications with intuitive user experiences. <br>
 <div align="center">
 
+![snake gif](https://github.com/SibteNajam/SibteNajam/blob/output/github-snake-dark.svg)
 
 
 
