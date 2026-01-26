@@ -8,9 +8,16 @@
 🕸️ Passionate about designing scalable, data-driven applications with intuitive user experiences. <br>
 <div align="center">
 
-![snake gif](https://github.com/SibteNajam/SibteNajam/github-snake-dark.svg)
-
-
+<div align="center">
+  <picture>
+    <!-- Dark mode snake -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SibteNajam/SibteNajam/main/output/github-contribution-grid-snake-dark.svg">
+    <!-- Light mode snake -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SibteNajam/SibteNajam/main/output/github-contribution-grid-snake.svg">
+    <!-- Fallback -->
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/SibteNajam/SibteNajam/main/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 </div>
 ## 📊 GitHub Stats & Activity
