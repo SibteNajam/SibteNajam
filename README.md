@@ -4,15 +4,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
 </div>
-# 🧑🏽‍💻 Sibt-e-Najam - Chai Biscuit and Code ☕
-🕸️ Passionate about designing scalable, data-driven applications with intuitive user experiences. <br>💼 Explore my portfolio at salmann.dev.
+#  Sibt-e-Najam - Chai Biscuit and Code
+🕸️ Passionate about designing scalable, data-driven applications with intuitive user experiences. <br>
 <div align="center">
 
-![snake gif](https://github.com/thesalmanx/thesalmanx/blob/output/github-snake-dark.svg)
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salmann.ii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thesalmanx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thesalmanx@gmail.com) 
-## [salmann.dev](https://salmann.dev)
+
 
 </div>
 ## 📊 GitHub Stats & Activity
