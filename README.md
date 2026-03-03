@@ -1,103 +1,25 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sibt-e-Najam</h1>
+<h3 align="center">A passionate Full Stack Engineer</h3>
 
-```
-┌─────────────────────────────────────────────┐
-│                                             │
-│   S I B T - E - N A J A M                  │
-│   Full Stack Developer                      │
-│                                             │
-│   NestJS · Next.js · PostgreSQL · Docker    │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibtenajam&label=Profile%20views&color=0e75b6&style=flat" alt="sibtenajam" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=4A9EFF&center=true&vCenter=true&width=500&lines=Building+scalable+backends+%26+real-time+systems;4+Exchange+Trading+Bot+%7C+NestJS+%7C+WebSockets;Clean+code+%7C+Clear+architecture+%7C+Ship+fast)](https://git.io/typing-svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibtenajam" alt="sibtenajam" /></a> </p>
 
-</div>
+- 🔭 I’m currently working on [Crypto-Autonomous-Trading](https://byteboom.ai)
 
----
+- 💬 Ask me about **react, node, nest /JS**
 
-### `$ whoami`
+- 📫 How to reach me **sibtenajam123@gmail.com**
 
-Full Stack Developer based in Karachi, PK. Focused on scalable backends, real-time data pipelines, and clean frontend experiences. Currently building an algorithmic trading platform with live exchange integrations.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.topcoder.com/members/440000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="440000" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-### `$ cat tech-stack.json`
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/get me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="get me a coffee" /></a></p><br><br>
 
-```json
-{
-  "backend":   ["NestJS", "Node.js", "PostgreSQL", "TypeORM", "WebSockets", "REST"],
-  "frontend":  ["Next.js 15", "React", "Redux Toolkit", "Tailwind CSS", "Three.js"],
-  "auth":      ["JWT", "Passport", "bcrypt", "OTP", "AES-256"],
-  "infra":     ["Railway", "Neon", "Docker", "GitHub Actions"]
-}
-```
-
----
-
-### `$ ls ./projects`
-
-```
-trading-bot/
-├── backend/       NestJS · 25+ modules · 4 exchanges · SL/TP webhooks
-├── reconciler/    Cron service syncing exchange state ↔ PostgreSQL
-├── vault/         AES-256 encrypted API key storage
-└── dashboard/     Next.js 15 · real-time WebSocket · 6-tab UI
-```
-
----
-
-### `$ git stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SibteNajam&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=4a9eff&title_color=c9d1d9&text_color=8b949e&ring_color=4a9eff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SibteNajam&theme=transparent&hide_border=true&ring=4a9eff&fire=4a9eff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SibteNajam&theme=transparent&hide_border=true&layout=compact&title_color=c9d1d9&text_color=8b949e&langs_count=8" width="40%" />
-
-</div>
-
----
-
-### `$ watch contribution-snake`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SibteNajam/SibteNajam/main/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SibteNajam/SibteNajam/main/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/SibteNajam/SibteNajam/main/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### `$ git log --graph`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SibteNajam&bg_color=00000000&color=4a9eff&line=4a9eff&point=c9d1d9&area=true&area_color=4a9eff&hide_border=true" width="100%" />
-</div>
-
----
-
-### `$ cat trophies.md`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SibteNajam&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════╗
-║  Thanks for stopping by              ║
-║  Star something if it helped  ⭐     ║
-╚══════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=SibteNajam&color=4a9eff&style=flat&label=profile+views" />
-
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibtenajam&show_icons=true&locale=en" alt="sibtenajam" /></p>
